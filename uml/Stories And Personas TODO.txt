@@ -1,0 +1,6 @@
+Stories:
+> acquisto normale
+> acquisto tempestivo
+> controllo di articoli che escono/arrivano in futuro
+> acquisto in bulk
+> acquisto in offerta
